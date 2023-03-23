@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/TypeScript-#3178C6??style=plastic&logo=appveyor&logoColor=#3178C6"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoMong2&show_icons=true&theme=radical)
 
 <!--
 **CoMong2/CoMong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
