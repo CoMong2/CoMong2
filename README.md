@@ -2,7 +2,7 @@
 
 📖 STACK 📖
 
-[![Type Script Badge](http://img.shields.io/badge/-Type%20Script-blue?style=flat-square&logo=TypeSciprt)]
+![TypeScript Badge](http://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript)
 
 <br/>
   
