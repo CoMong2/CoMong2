@@ -2,7 +2,6 @@
 
 📖 STACK 📖
 
-![TypeScript Badge](http://img.shields.io/badge/-TypeScript-#3178C6?style=flat-square&logo=TypeScript)
 
 <br/>
   
